@@ -1,24 +1,10 @@
 Macular Vision Image Corrector
-A browser-based utility designed to assist individuals with macular degeneration by enabling image distortion correction using personalized warping based on user‑identified visual irregularities.
+A browser-based utility designed to assist individuals with macular degeneration 
+by enabling image distortion correction using personalized warping based on user‑identified visual irregularities.
 
 🔗 Live Demo: amdfocus.github.io/Macular-Vision-Corrector---Image/
 
-🛠️ Key Features
-Interactive Calibration Grid
-Users click, drag, or tap grid control points to indicate perceived distortions in their vision.
-
-Real-Time Image Warping
-Selected images dynamically warp to counteract distortions, helping to restore clarity.
-
-Adjustable Warp Strength
-Refine correction intensity to suit personal comfort and visibility.
-
-Save & Load Profiles
-Export and re-import custom distortion maps for consistent future use.
-
-Distortion Metrics
-Review statistical data—like average and maximum displacement—for insight into visual irregularities.
-
+ 
 🎯 How It Works
 Calibrate
 Interact with the grid to record perceived distortion at specific points.
