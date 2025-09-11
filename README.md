@@ -29,10 +29,4 @@ Custom algorithms for image warping
 Created as part of a macular-degeneration assistive technology project at UniSA
 
 Developed with support from academic supervisors, feedback from AMD patients, and conceptual aid from OpenAI's ChatGPT
-
-⚙️ Usage & Contribution
-Clone the repository
-
-Open index.html in a modern web browser
-
-Test the functionality, submit issues, or propose enhancements via GitHub
+ 
